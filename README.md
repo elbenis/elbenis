@@ -1,4 +1,3 @@
-<h3 align="left">Projects:</h3>
 - Sarian Project Lead: https://github.com/sarian-lang
 
 <h3 align="left">Sarian Discord Server:</h3>
